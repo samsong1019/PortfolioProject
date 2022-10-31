@@ -168,6 +168,8 @@ li {
     height: 250px;
     flex-basis: 37%;
     margin-right: 25px;
+    background-image: url(./QUIZPIC.jfif);
+    background-size: cover;
 }
 .flex-item:last-child{
     height: 500px;
