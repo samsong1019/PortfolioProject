@@ -175,6 +175,8 @@ li {
     height: 500px;
     flex-basis: 100%;
     margin-right: 25px;
+    background-image: url(./Organize.jfif);
+    background-size: cover;
 }
 .flex-item {
     box-shadow: 0 0 10px rgba(0, 0, 0, .5);
